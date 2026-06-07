@@ -33,15 +33,15 @@ The objective was to transform an existing architectural floor plan into a detai
 
 ## Project Preview
 
-![Image 1](Images/Render_01.png)
+![Image 1](Images/Render_01.jpg)
 
-![Image 2](Images/Render_02.png)
+![Image 2](Images/Render_02.jpg)
 
-![Image 3](Images/Render_03.png)
+![Image 3](Images/Render_03.jpg)
 
 <p align="center">
-  <img src="Images/Render_02.png" width="45%">
-  <img src="Images/Render_03.png" width="45%">
+  <img src="Images/Render_02.jpg" width="45%">
+  <img src="Images/Render_03.jpg" width="45%">
 </p>
 
 ## Files Included
