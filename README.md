@@ -1,4 +1,9 @@
 # Modern House 3D Visualization
+![3ds Max](https://img.shields.io/badge/Autodesk-3ds%20Max-00AEEF)
+![V-Ray](https://img.shields.io/badge/V--Ray-Rendering-blue)
+![3D Modeling](https://img.shields.io/badge/3D-Modeling-success)
+![Animation](https://img.shields.io/badge/Animation-Walkthrough-orange)
+![Architectural Visualization](https://img.shields.io/badge/Architectural-Visualization-purple)
 
 ## Overview
 
