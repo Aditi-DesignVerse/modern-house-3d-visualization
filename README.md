@@ -33,15 +33,15 @@ The objective was to transform an existing architectural floor plan into a detai
 
 ## Project Preview
 
-![Image 1](Images/Render_01.jpg)
+![Image 1](Modern-House-3d-visualization/Images/Render_01.jpg)
 
-![Image 2](Images/Render_02.jpg)
+![Image 2](Modern-House-3d-visualization/Images/Render_02.jpg)
 
-![Image 3](Images/Render_03.jpg)
+![Image 3](Modern-House-3d-visualization/Images/Render_03.jpg)
 
 <p align="center">
-  <img src="Images/Render_02.jpg" width="45%">
-  <img src="Images/Render_03.jpg" width="45%">
+  <img src="Modern-House-3d-visualization/Images/Render_02.jpg" width="45%">
+  <img src="Modern-House-3d-visualization/Images/Render_03.jpg" width="45%">
 </p>
 
 ## Files Included
